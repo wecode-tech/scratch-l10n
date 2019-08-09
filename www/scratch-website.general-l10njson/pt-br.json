@@ -243,8 +243,8 @@
     "comments.status.deleted": "Deletado",
     "comments.status.reported": "Denunciado",
     "social.embedLabel": "Incorporar",
-    "social.copyEmbedLinkText": "Copiar código de incorporação",
+    "social.copyEmbedLinkText": "Copy embed",
     "social.linkLabel": "Link",
-    "social.copyLinkLinkText": "Copiar link",
-    "social.embedCopiedResultText": "Copiado"
+    "social.copyLinkLinkText": "Copy link",
+    "social.embedCopiedResultText": "Copied"
 }

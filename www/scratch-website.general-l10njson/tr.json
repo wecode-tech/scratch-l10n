@@ -52,7 +52,7 @@
     "general.monthOctober": "Ekim",
     "general.monthNovember": "Kasım",
     "general.monthDecember": "Aralık",
-    "general.myClass": "Sınıflarım",
+    "general.myClass": "Benim Sınıflarım",
     "general.myClasses": "Benim Sınıflarım",
     "general.myStuff": "Kendiminkiler",
     "general.noDeletionTitle": "Hesabınız Silinmeyecek",
@@ -243,8 +243,8 @@
     "comments.status.deleted": "Silindi",
     "comments.status.reported": "Şikayet edildi",
     "social.embedLabel": "Göm",
-    "social.copyEmbedLinkText": "Katıştırılmışı kopyala",
+    "social.copyEmbedLinkText": "Copy embed",
     "social.linkLabel": "Link",
-    "social.copyLinkLinkText": "Linki kopyala.",
-    "social.embedCopiedResultText": "Kopyalandı"
+    "social.copyLinkLinkText": "Copy link",
+    "social.embedCopiedResultText": "Copied"
 }
